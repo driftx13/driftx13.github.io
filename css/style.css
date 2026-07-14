@@ -34,3 +34,13 @@ a:hover {
 a:active {
   color: green; /* 클릭하는 순간의 색상 */
 }
+
+.fixed-top-5 {
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 10px 20px;
+  border-radius: 5px;
+}
