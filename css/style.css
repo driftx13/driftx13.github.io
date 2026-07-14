@@ -37,10 +37,11 @@ a:active {
 
 .fixed-top-5 {
   position: fixed;
+  width: 310px;
   top: 5%;
   left: 50%;
   transform: translateX(-50%);
   background-color: rgba(0, 0, 0, 0.5); 
-  padding: 10px 20px;
+  padding: 5px 15px;
   border-radius: 5px;
 }
