@@ -1,0 +1,16 @@
+a:link {
+  color: white; /* 방문하지 않은 링크 색상 */
+  text-decoration: underline; /* 밑줄 제거 (선택 사항) */
+}
+
+a:visited {
+  color: gray; /* 방문한 링크 색상 */
+}
+
+a:hover {
+  color: red; /* 마우스를 올렸을 때 색상 */
+}
+
+a:active {
+  color: green; /* 클릭하는 순간의 색상 */
+}
